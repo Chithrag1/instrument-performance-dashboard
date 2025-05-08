@@ -1,7 +1,7 @@
 import React from 'react';
 import InstrumentOverview from './components/InstrumentOverview';
 import Charts from './components/charts';
-import DataTables from './components/DataTables';
+import DataTables from './components/dataTables';
 import './index.css';
 
 const App = () => {

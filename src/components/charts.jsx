@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { Rectangle } from 'recharts';
 import TotalHoursGauge from './charts/TotalHoursGauge';
 import UptimeGauge from './charts/UptimeGauge';
-import { ResponsiveHeatMap } from '@nivo/heatmap';
 
 import {
   ResponsiveContainer,
